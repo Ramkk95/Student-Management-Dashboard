@@ -1,0 +1,7 @@
+streamlit
+langchain
+sqlalchemy
+pandas
+pyodbc
+FastAPI
+uvicorn
